@@ -1,16 +1,54 @@
-## Hi there 👋
+# 👋 Hey, I'm Aarav Malviya
 
-<!--
-**aarav-malviya9/aarav-malviya9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 15 y/o Developer | Building AI + Web Projects
+💻 Currently working on: AI assistants, modern websites, and automation tools
+🎯 Goal: Build products that look like $10k startups
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Tech Stack
+
+* 🌐 Frontend: HTML, CSS, JavaScript, React
+* 🧠 AI: Ollama, LLM integrations, chatbot systems
+* ⚙️ Tools: Git, Vercel, Node.js
+
+---
+
+## 🚀 Projects
+
+### 🤖 AI Jarvis Assistant
+
+A smart assistant with voice + chat + system control
+
+### 🌐 Arushi Malviya Portfolio
+
+Modern, high-end interactive website with booking system
+
+### 🧠 AI Website Chatbot
+
+Human-like chatbot for websites with analytics + integrations
+
+---
+
+## 📈 Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=radical)
+
+---
+
+## 🌍 Connect with me
+
+* LinkedIn: (add link)
+* Portfolio: (your website link)
+
+---
+
+## 🧠 Currently Learning
+
+* Advanced React + Animations
+* AI product building
+* UI/UX design principles
+
+---
+
+⭐️ Building in public. Follow along!
