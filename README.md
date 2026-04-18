@@ -30,12 +30,6 @@ Human-like chatbot for websites with analytics + integrations
 
 ---
 
-## 📈 Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=radical)
-
----
-
 ## 🌍 Connect with me
 
 * LinkedIn: (add link)
@@ -52,3 +46,6 @@ Human-like chatbot for websites with analytics + integrations
 ---
 
 ⭐️ Building in public. Follow along!
+
+---
+![Visitors](https://komarev.com/ghpvc/?username=aarav-malviya9)
