@@ -32,7 +32,7 @@ Human-like chatbot for websites with analytics + integrations
 
 ## 🌍 Connect with me
 
-* LinkedIn: (add link)
+* LinkedIn: www.linkedin.com/in/aarav-malviya
 * Portfolio: (your website link)
 
 ---
