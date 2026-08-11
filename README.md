@@ -1,50 +1,59 @@
-# 👋 Hey, I'm Aarav Malviya
+# aarav-malviya9
 
-🚀 15 y/o Developer | Building AI + Web Projects
-💻 Currently working on: AI assistants, modern websites, and automation tools
-🎯 Goal: Build products that look like $10k startups
+> Memorable developer positioning.
 
----
+**Theme:** GitHub · **Style:** Creative · **Agent:** Full-Stack Engineer
 
-## ⚡ Tech Stack
+## Header
+> Editing this section in the inspector.
+Hi, I'm **aarav-malviya9**. This README is tuned for **personal brand** with a GitHub visual system.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=aarav-malviya9&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/hero?username=aarav-malviya9&theme=github-dark" alt="aarav-malviya9 hero section" />
+  </picture>
+</p>
+## About Me
+Shapes the short profile story and positioning.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=aarav-malviya9&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/about?username=aarav-malviya9&theme=github-dark" alt="aarav-malviya9 about section" />
+  </picture>
+</p>
+## Skills
+Selected stack and skill badges will be generated from the GitHub profile and README strategy.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=aarav-malviya9&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stack?username=aarav-malviya9&theme=github-dark" alt="aarav-malviya9 stack section" />
+  </picture>
+</p>
+## GitHub Stats
+GitSkins stat widgets will use the **GitHub** theme.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=aarav-malviya9&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stats?username=aarav-malviya9&theme=github-dark" alt="aarav-malviya9 stats section" />
+  </picture>
+</p>
+## Projects
+Highlights repositories as proof of work.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=aarav-malviya9&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/projects?username=aarav-malviya9&theme=github-dark" alt="aarav-malviya9 projects section" />
+  </picture>
+</p>
+## Heatmap
+Animated year-long contribution calendar.
+## Connect
+Contact and social links will appear here.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=aarav-malviya9&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/social?username=aarav-malviya9&theme=github-dark" alt="aarav-malviya9 social section" />
+  </picture>
+</p>
 
-* 🌐 Frontend: HTML, CSS, JavaScript, React
-* 🧠 AI: Ollama, LLM integrations, chatbot systems
-* ⚙️ Tools: Git, Vercel, Node.js
-
----
-
-## 🚀 Projects
-
-### 🤖 AI Jarvis Assistant
-
-A smart assistant with voice + chat + system control
-
-### 🌐 Arushi Malviya Portfolio
-
-Modern, high-end interactive website with booking system
-
-### 🧠 AI Website Chatbot
-
-Human-like chatbot for websites with analytics + integrations
-
----
-
-## 🌍 Connect with me
-
-* LinkedIn: www.linkedin.com/in/aarav-malviya
-
----
-
-## 🧠 Currently Learning
-
-* Advanced React + Animations
-* AI product building
-* UI/UX design principles
-
----
-
-⭐️ Building in public. Follow along!
-
----
-![Visitors](https://komarev.com/ghpvc/?username=aarav-malviya9)
+<!-- Sections: Header, About Me, Skills, GitHub Stats, Projects, Heatmap, Connect -->
