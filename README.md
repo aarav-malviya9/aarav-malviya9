@@ -1,55 +1,45 @@
-## Selected work
+# Aarav Malviya
 
-<div align="center">
+15, based in India. I build things end-to-end — Android apps, web apps, the occasional AI tool — and ship them instead of just planning them.
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=aarav-malviya9&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F212040439%3Fv%3D4" alt="aarav-malviya9 hero visual" />
-</p>
+---
 
-<h1>Aarav Malviya</h1>
-<p><b>Freelance developer or consultant</b></p>
+## Building right now
 
-</div>
+### [Zenith](https://github.com/aarav-malviya9/zenith-launcher)
+A minimalist Android launcher built around one idea: your phone should feel like a tool, not a slot machine.
 
-## The idea behind the work
+- Smart search, a "Notification Zero" inbox, focus modes, usage insights, custom themes
+- `Kotlin` · MIT licensed · [v0.1.0 shipped Sept 2026](https://github.com/aarav-malviya9/zenith-launcher/releases/tag/v0.1.0)
+- [Website](https://zenith-minimalist-launcher.netlify.app/) · [Docs](https://github.com/aarav-malviya9/zenith-launcher/tree/main/docs)
 
-> Hey, I'm Aarav Malviya
+---
 
-🚀 15 y/o Developer | Building AI + Web Projects
-💻 Currently working on: AI assistants, modern websites, and automation tools
+## Also shipping
 
-- 📍 Based in **India**
-- 👥 **0** followers · **0** following
+**[webby](https://github.com/aarav-malviya9/webby)** — a Next.js + Framer Motion portfolio site, built while learning motion design on the web.
 
-*Small, useful work over vague claims.*
+**[aarav-portfolio](https://github.com/aarav-malviya9/aarav-portfolio)** · **[elite-portfolio](https://github.com/aarav-malviya9/elite-portfolio)** — Next.js personal-site iterations, still in progress.
 
-## Case studies
+**[portfolio-3D](https://github.com/aarav-malviya9/portfolio-3D)** — a React + Three.js portfolio experiment.
 
-<table>
-<tr><td width="32%"><b><a href="https://github.com/aarav-malviya9/zenith-launcher">zenith-launcher</a></b></td><td>A luxury minimalist Android launcher designed to turn your phone into a calmer, more intentional environment.<br/><sub>Kotlin · 0 stars</sub></td></tr>
-<tr><td width="32%"><b><a href="https://github.com/aarav-malviya9/aarav-portfolio">aarav-portfolio</a></b></td><td>A selected project from this GitHub profile.<br/><sub>TypeScript · 0 stars</sub></td></tr>
-<tr><td width="32%"><b><a href="https://github.com/aarav-malviya9/webby">webby</a></b></td><td>A selected project from this GitHub profile.<br/><sub>JavaScript · 0 stars</sub></td></tr>
-<tr><td width="32%"><b><a href="https://github.com/aarav-malviya9/portfolio-3D">portfolio-3D</a></b></td><td>A selected project from this GitHub profile.<br/><sub>TypeScript · 0 stars</sub></td></tr>
-</table>
+---
 
-## Details worth noticing
+## Stack
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/highlights?username=aarav-malviya9&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F212040439%3Fv%3D4" alt="aarav-malviya9 highlights visual" />
-</p>
+![Kotlin](https://img.shields.io/badge/Kotlin-000000?style=flat-square&logo=kotlin&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=white)
 
-<p><b>Aarav Malviya</b> is shipping 8 public projects with 0 stars of proof.</p>
+Mainly Android (Kotlin, Jetpack) and the React/Next.js side of the web right now.
 
-## Creative toolkit
+---
 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+## Reach me
 
-## Make something memorable
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=aarav-malviya9&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F212040439%3Fv%3D4" alt="aarav-malviya9 social visual" />
-</p>
-
-<a href="https://github.com/aarav-malviya9">GitHub</a>
-
-<p align="center"><sub>Aarav Malviya · Creative portfolio generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+[27aaravmalviya@email.com](mailto:you@email.com) · [[LinkedIn](https://www.linkedin.com/in/aarav-malviya/)]
